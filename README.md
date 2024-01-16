@@ -1,5 +1,5 @@
 ### nahid-Shot
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+use+my+command+; please+don't+forget+start+;IM+NAHID+HI;Facebook%3A+SABBIR+KHAN+NAHID" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+use+my+command+; please+don't+forget+start+;HI+IAM+NAHID;Facebook%3A+SABBIR+KHAN+NAHID" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=IM-NAHID-THANKS-FOR-USING-MY-CMD)](https://git.io/typing-svg)
 
