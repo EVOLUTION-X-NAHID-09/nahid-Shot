@@ -1,10 +1,10 @@
 ### nahid-Shot
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+use+my+command+;place+don't+forged+start+;Im+farhan+hi;Facebook%3A+farhan+muh+tasin" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+use+my+command+; please+don't+forget+start+;IM+NAHID+HI;Facebook%3A+SABBIR+KHAN+NAHID" alt="Typing SVG" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=im-farhan-thanks-for-my-cmd-use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=IM-NAHID-THANKS-FOR-USING-MY-CMD)](https://git.io/typing-svg)
 
 ### Hola, bienvenid@ **TERMUX** REPO CLEAN FILES.. 
-..using  *wifi-hack* by Termux/Android, FARHAN-😫!!
+..using  *wifi-hack* by Termux/Android, NAHID-🙂
 <br><br>
 ![termuxICO](https://user-images.githubusercontent.com/80227002/112893051-6feceb00-90da-11eb-856d-1fac8f6d169a.png)
 <br><br>
