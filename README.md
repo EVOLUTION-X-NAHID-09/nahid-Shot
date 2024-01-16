@@ -1,5 +1,4 @@
-### FARHAN-Shot
-
+### nahid-Shot
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+use+my+command+;place+don't+forged+start+;Im+farhan+hi;Facebook%3A+farhan+muh+tasin" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=im-farhan-thanks-for-my-cmd-use)](https://git.io/typing-svg)
@@ -54,7 +53,7 @@ rm -rf FARHAN-Shot
 ### How to update WifiHack
 To check for updates and update, run the following command:
 ```
-(cd FARHAN-Shot && git pull)
+(cd nahid-Shot && git pull)
 ```
 
 # FARHAN-Shot2_Termux_installer/Link ✔
@@ -64,7 +63,7 @@ To check for updates and update, run the following command:
 
 #### Using installer
  ```
- curl -sSf https://raw.githubusercontent.com/gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
+ curl -sSf https://raw.githubusercontent.com/EVOLUTION-X-NAHID-09/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
  ```
 #### Manually
 **Installing requirements**
@@ -73,19 +72,19 @@ pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu 
  ```
 **run farhan hack py**
  ```
- git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot FARHAN-Shot
+ git clone --depth 1 https://github.com/EVOLUTION-X-NAHID-09/nahid-Shot nahid-Shot
  ```
  ```
- cd FARHAN-Shot
+ cd nahid-Shot
  ```
 
 #### Running
  ```
- sudo python FARHAN-Shot.py -i wlan0 -K
+ sudo python nahid-Shot.py -i wlan0 -K
  ```
  #### one line 
  ```
- sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
+ sudo python nahid-Shot/nahid-Shot.py -i wlan0 -K
  ```
 
 ## [Termux](https://termux.com/)
@@ -103,7 +102,7 @@ Please note that root access is required.
 
 # Usage
 ```
- FARHAN-Shot.py <arguments>
+ nahid-Shot.py <arguments>
  Required arguments:
      -i, --interface=<wlan0>  : Name of the interface to use
 
@@ -135,19 +134,19 @@ Please note that root access is required.
 ## Usage examples
 Start Pixie Dust attack on a specified BSSID:
  ```
-cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 -b 00:90:4C:C1:AC:21 -K
+cd nahid-Shot && sudo python3 nahid-Shot.py -i wlan0 -b 00:90:4C:C1:AC:21 -K
  ```
 Show avaliable networks and start Pixie Dust attack on a specified network:
  ```
-cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 -K
+cd nahid-Shot && sudo python3 nahid-Shot.py -i wlan0 -K
  ```
 Launch online WPS bruteforce with the specified first half of the PIN:
  ```
-cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234
+cd nahid-Shot && sudo python3 nahid-Shot.py -i wlan0 -b 00:90:4C:C1:AC:21 -B -p 1234
  ```
  Start WPS push button connection:s
  ```
-cd FARHAN-Shot && sudo python3 FARHAN-Shot.py -i wlan0 --pbc
+cd nahid-Shot && sudo python3 nahid-Shot.py -i wlan0 --pbc
  ```
 ## Troubleshooting
 #### "RTNETLINK answers: Operation not possible due to RF-kill"
