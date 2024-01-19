@@ -1030,7 +1030,7 @@ SIMPLE WIFI CRACKING TOOL___
                 networkNo = input('[\033[1;33m?\033[1;37m] Select target (press Enter to refresh): ')
                 if networkNo.lower() in ('r', '0', ''):
                     return self.prompt_network()
-                elif int(netwo🥰No) in networks.keys():
+                elif int(networkNo) in networks.keys():
                     return networks[int(networkNo)]['BSSID']
                 else:
                     raise IndexError
